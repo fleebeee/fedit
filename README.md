@@ -35,3 +35,13 @@ To enjoy all the features of `fedit` you need a terminal emulator that implement
 `fedit` is not blazing fast. It's intended for quick edits on small files.
 
 Text is internally handled as a list of lines, and lines are lists of graphemes. There is no gap buffer.
+
+## Roadmap
+
+These features could possibly be implemented in the future:
+
+- [ ] Search
+- [ ] Word-by-word cursor movement
+- [ ] Mouse selection
+- [ ] Gap buffer
+- [ ] Syntax highlighting
